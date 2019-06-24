@@ -1,3 +1,7 @@
+# NOT MAINTAINED
+
+This fork is no longer maintained, please use https://github.com/URL-Detector/URL-Detector instead.
+
 # Url Detector
 
 The url detector is a library created by the Linkedin Security Team to detect and extract urls in a long piece of text.
